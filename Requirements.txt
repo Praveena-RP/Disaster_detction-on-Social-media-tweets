@@ -1,5 +1,5 @@
-TensorFlow 
-Keras 
+tensorFlow 
+keras 
 NLTK 
-Scikit-learn 
-Pickle 
+scikit-learn 
+pickle 
